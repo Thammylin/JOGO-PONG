@@ -1,4 +1,4 @@
-# Jogo-ping
+# Jogo-pong
 Jogo criado através das aulas do curso da Alura de Jogos clássicos parte 1: Pong com Javascript, para começarmos a trabalhar nossa Lógica de programação e a dar os primeiros passoa com Javascript.
 
 Um preview de como ficou:
